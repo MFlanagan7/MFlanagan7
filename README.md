@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React and Node.js.
 - 💞️ I’m looking to collaborate on fun and challenging web projects.
 - 📫 How to reach me: <br>
-          Email: MFlanagan7@gmail.com <br>
+          Email: hello@michaelFlanagan.dev <br>
           LinkedIn: https://www.linkedin.com/in/michael-flanagan/
 
 <!---
