@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Michael Flanagan.
 - 👀 I’m interested in solving problems of all kinds through code.
-- 🌱 I’m currently learning React and Node.js.
-- 💞️ I’m looking to collaborate on fun and challenging web projects.
+- 🌱 Professionally, I’m currently learning about HubSpot, Web Accessibility, and Web Performance Optimization.
+- 💞️ Personally, I’m working on learning React and Vue, as well as gaming projects using the Phaser framework and integrating game projects in Discord.
 - 📫 How to reach me: <br>
-          Email: hello@michaelFlanagan.dev <br>
+          Email: mflanagan7@gmail.com <br>
           LinkedIn: https://www.linkedin.com/in/michael-flanagan/
 
 <!---
