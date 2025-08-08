@@ -1,3 +1,4 @@
+![Header](./github-header-banner.png)
 - 👋 Hi, I’m Michael Flanagan.
 - 👀 I’m interested in solving problems of all kinds through code.
 - 🌱 Professionally, I’m currently learning about HubSpot, Web Accessibility, and Web Performance Optimization.
