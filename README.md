@@ -9,4 +9,4 @@ Currently building at WEOKIE Federal Credit Union, sole developer on a full webs
 
 **Portfolio:** michaelflanagan.dev  
 **Email:** hello@michaelflanagan.dev
-BlueSky @michaelflanagan.dev
+**BlueSky:** @michaelflanagan.dev
