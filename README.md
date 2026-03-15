@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./Black-and-White-Minimalist-Banner.jpg)
 ## Michael Flanagan
 
 Frontend Developer & Marketing Technologist based in Oklahoma City.
