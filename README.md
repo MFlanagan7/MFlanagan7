@@ -1,4 +1,4 @@
-![Header](./Black-and-White-Minimalist-Banner.jpg)
+![Header](./technologist-banner.png)
 ### Hi, I'm Michael 👋
 
 **Marketing Technologist & HubSpot Developer** based in Oklahoma City.
